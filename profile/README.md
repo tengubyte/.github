@@ -8,6 +8,7 @@ We work mostly in TypeScript, Go and Python, and we build with Claude.
 
 ## Open source
 
+- [sumi](https://github.com/tengubyte/sumi) is brush and ink effects for React: brush strokes and kanji drawn in code, ink splats, ink-wash mountains and more, on WebGL with no other dependencies. Demos at [sumi.tengubyte.io](https://sumi.tengubyte.io).
 - [inquiry-triage](https://github.com/tengubyte/inquiry-triage) sorts website contact-form messages with Claude into leads, support requests and spam, and drafts a reply for a person to check. It is wired into our own contact form.
 
 ## Work with us
